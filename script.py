@@ -38,7 +38,7 @@
 
 import socket
 import threading
-Site = "www.avizoon.site"
+Site = input("pleas enter site address.  ... ")
 port = 80
 mess = "Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY Black army iran Black army \n\n\n\n\n\n\n\n\n\n\n\n\n\n IRAN \n\t BLACKARMY"
 ip   = socket.gethostbyname(Site)
